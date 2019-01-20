@@ -18,10 +18,10 @@
         android:src="@drawable/red" />
 
     <TextView
-        android:id="@+id/textView1"
+        android:id="@+id/tvRedToast"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Android Tutorial Custom Toast Example"
+        android:text=""
         android:textSize="16dp"
         android:layout_gravity="center_vertical"
         android:padding="5dp"/>

@@ -18,11 +18,11 @@
             android:layout_height="50dp"/>
 
         <TextView
-            android:id="@+id/textView1"
+            android:id="@+id/simpleToast"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:padding="3dp"
-            android:text="Android Tutorial Custom Toast"
+            android:text=""
             android:textColor="#fff"
             android:textSize="16dp" 
             android:layout_gravity="center_vertical"/>
